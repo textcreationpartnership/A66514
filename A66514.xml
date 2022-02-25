@@ -1,0 +1,816 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and easie method for preserving (by God's blessing) those that are well from the infection of the plague, or any contagious distemper in city, camp, fleet, &amp;c. and for curing such as are infected with it : written in the year 1666 / by Tho. Willis ... ; with a poem on the virtue of a laurel leaf for curing of a rheumatism, by W.B.</title>
+            <author>Willis, Thomas, 1621-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66514</idno>
+            <idno type="STC">Wing W2853</idno>
+            <idno type="STC">ESTC R1814</idno>
+            <idno type="EEBO-CITATION">12627916</idno>
+            <idno type="OCLC">ocm 12627916</idno>
+            <idno type="VID">64685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:29 or 2103:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and easie method for preserving (by God's blessing) those that are well from the infection of the plague, or any contagious distemper in city, camp, fleet, &amp;c. and for curing such as are infected with it : written in the year 1666 / by Tho. Willis ... ; with a poem on the virtue of a laurel leaf for curing of a rheumatism, by W.B.</title>
+                  <author>Willis, Thomas, 1621-1675.</author>
+                  <author>Bolton, William, 1650 or 51-1691. In laurum Appollini dicatam. English &amp; Latin.</author>
+                  <author>T. F., Gent.</author>
+               </titleStmt>
+               <extent>[10], 74 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of originals in Huntington Library and the British Library.</note>
+                  <note>"A poem upon a laurel-leaf" has half t.p.</note>
+                  <note>"A poem upon a laurel-leaf" translated by T.F., Gent.</note>
+                  <note>Incorrectly labelled Wing W2852 at 969:29.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  Great Britain --  Early works to 1800.</term>
+               <term>Medicine --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:64685:1"/>
+            <head>ERRATA.</head>
+            <p>PAg. 34 line 2 for <hi>four Ounces,</hi> read <hi>three Ounces.</hi> p. 35 l. 14 for <hi>Batter Roots,</hi> r. <hi>Butter-Bur Roots.</hi> p. 38 l. 13 for <hi>half an Ounce,</hi> r. <hi>half a Scruple.</hi> p. 39 l. 7 for <hi>Bole Armenick,</hi> r. <hi>Bole Armoniack.</hi> p. 65 l. 13 for <hi>cauſeth the ſwelling,</hi> r. <hi>cauſeth ſwelling.</hi> p. 69 l. 6 for <hi>open'd,</hi> r. <hi>ripen'd.</hi>
+            </p>
+            <pb facs="tcp:64685:1"/>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:64685:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Thomas Willis, M.D.</figDesc>
+                  <byline>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.W. ſculp.</byline>
+                  <head>Thomas Willis M.D</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:64685:2"/>
+            <p>A Plain and Eaſie Method FOR Preſerving [by <hi>God's Bleſſing</hi>] thoſe that are WELL from the Infection of the PLAGUE, OR Any Contagious Diſtemper in City, Camp, Fleet, &amp;c. AND For Curing ſuch as are Infected with it.</p>
+            <p>Written in the Year 1666.</p>
+            <p>By <hi>Tho. Willis,</hi> M. D. late Sidney Profeſ<g ref="char:EOLhyphen"/>ſor in <hi>Oxford,</hi> and a Member of the Royal Society and College of Phy<g ref="char:EOLhyphen"/>ſicians in <hi>London.</hi>
+            </p>
+            <p>With a Poem on the virtue of a Laurel Leaf for curing of a Rheumatiſm. By <hi>W. B.</hi>
+            </p>
+            <p>Never before Printed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crook,</hi> at the <hi>Green-Dragon,</hi> without <hi>Temple-Bar.</hi> 1691.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64685:3"/>
+            <pb facs="tcp:64685:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>HAving been hi<g ref="char:EOLhyphen"/>therto very a<g ref="char:EOLhyphen"/>verſe from Pub<g ref="char:EOLhyphen"/>liſhing any of Dr. <hi>Willis</hi>'s Poſthumous Works, becauſe it may be preſum'd that they want his laſt Hand to compleat them; and for
+<pb facs="tcp:64685:4"/>that Reaſon, giving no ear till now to any En<g ref="char:EOLhyphen"/>treaties of that kind, though never ſo pow<g ref="char:EOLhyphen"/>erful, or never ſo im<g ref="char:EOLhyphen"/>portunate: I think my ſelf oblig'd to give the World ſome Account why I alter'd my mind as to this particular, and did at length ſuffer my ſelf to be prevail'd with to Print the follow<g ref="char:EOLhyphen"/>ing Treatiſe, it being now Fifteen Years after his Death; and it is briefly this: A worthy
+<pb facs="tcp:64685:4"/>Friend and an old Ac<g ref="char:EOLhyphen"/>quaintance of mine, de<g ref="char:EOLhyphen"/>ſiring if I knew of, or could procure any choice and approv'd Re<g ref="char:EOLhyphen"/>ceipts againſt the Plague, that I would furniſh him with ſome for a Friend of his, for the preſervation of whoſe Health he had a ſingu<g ref="char:EOLhyphen"/>lar concern, and who was going in the late Embaſſie to <hi>Conſtantinople,</hi> where that Diſtemper then was, and did fre<g ref="char:EOLhyphen"/>quently rage: I pro<g ref="char:EOLhyphen"/>mis'd
+<pb facs="tcp:64685:5"/>to uſe my utmoſt endeavours to ſupply him; and calling to mind this ſhort Tract, which I tranſcrib'd from the Doctor's Papers in the Year 1666, being then his <hi>Amanuenſis;</hi> I knew it would far ex<g ref="char:EOLhyphen"/>ceed whatſoever I could elſewhere obtain, or pre<g ref="char:EOLhyphen"/>tend to collect upon this Subject: Where<g ref="char:EOLhyphen"/>upon I allow'd him to take a Copy of it for his Friend's uſe, upon condition he would not
+<pb facs="tcp:64685:5"/>make it publick. But not long ſince a ſuſpi<g ref="char:EOLhyphen"/>cious Sickneſs having ſeiz'd their Majeſties Army in <hi>Ireland,</hi> the ſame Perſon was very much of opinion, that the Printing of it might do great ſervice, ſhould that Diſeaſe prove Pe<g ref="char:EOLhyphen"/>ſtilential; and urg'd ſuch Arguments, as made me to be alſo of the ſame perſwaſion; eſpecially, he having ſhew'd the Copy to ſe<g ref="char:EOLhyphen"/>veral of the moſt e<g ref="char:EOLhyphen"/>minent
+<pb facs="tcp:64685:6"/>Phyſicians a<g ref="char:EOLhyphen"/>mongſt us, whoſe opi<g ref="char:EOLhyphen"/>nion it was, as he aſſur'd me, that the Publiſh<g ref="char:EOLhyphen"/>ing of it might be of very great uſe, it be<g ref="char:EOLhyphen"/>ing a charitable inſtru<g ref="char:EOLhyphen"/>ction in caſes of great danger, for ſuch as cannot procure the at<g ref="char:EOLhyphen"/>tendance of Phyſicians: I muſt needs own, that I could not withſtand the judgment of ſuch Perſons.</p>
+            <p>The regard I have al<g ref="char:EOLhyphen"/>ways had, and ſhall ſtill
+<pb facs="tcp:64685:6"/>have for the Reputation and Memory of my dear <hi>Maſter,</hi> and beſt <hi>Friend,</hi> will not, I preſume, be thought to leſſen, by my giving way upon theſe terms to this Pub<g ref="char:EOLhyphen"/>lication; ſince it is ſo earneſtly deſir'd, and ſo well eſteem'd of: And the Good that is aim'd at by it can be no ill Apo<g ref="char:EOLhyphen"/>logy for</p>
+            <closer>
+               <signed>Thy Friend and Servant, J. Hemming.</signed>
+               <dateline>
+                  <hi>St.</hi> Martins-Lane, <date>Sept. 1. 1690.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:64685:7"/>
+            <pb facs="tcp:64685:7"/>
+            <head>A POEM UPON A Laurel-Leaf.</head>
+            <argument>
+               <p>Viris admodum Colendis, PUBLICAE SCHOLAE, Vulgò dictae, <hi>Harrow ſuper Montem,</hi> GUBERNATORIBUS, <hi>VIZ.</hi>
+                  <list>
+                     <item>Dn<hi rend="sup">o</hi> 
+                        <hi>CAROLO GERARD</hi> Baronetto.</item>
+                     <item>Dn<hi rend="sup">o</hi> 
+                        <hi>EDVARDO WALDO</hi> Militi.</item>
+                     <item>
+                        <hi>CHEEK GERARD,</hi> Armigeris.</item>
+                     <item>
+                        <hi>DANIELI WALDO,</hi> Armigeris.</item>
+                     <item>
+                        <hi>G<g ref="char:V">Ʋ</g>LIELMO FEN,</hi> Armigeris.</item>
+                     <item>
+                        <hi>EDVARDO WALDO,</hi> Armigeris.</item>
+                  </list>
+               </p>
+               <p>Hoc qualecunque Poema, <hi>Gulielmus Bolton</hi> M.A. &amp; ejuſdem Scholae Archi-didaſcalus, humil<g ref="char:EOLhyphen"/>limè dedicat.</p>
+            </argument>
+            <div xml:lang="lat" type="version">
+               <pb n="2" facs="tcp:64685:8"/>
+               <head>In LAURUM APOLLINI dicatam, cujus Foliis (monitu Reverendi Viri Domini <hi>Fiſher,</hi> &amp; juſſu Honoratiſſimae Dominae, Dominae <hi>Gerard)</hi> uſus ſum, quae mihi Morbo articulari laboranti, ſaepe medicata ſunt.</head>
+               <lg>
+                  <l>COnvenere loco quodam flammantis Olympi</l>
+                  <l>(Ut fama eſt) omnes Diique Deaeque ſimul.</l>
+                  <l>Queis placuit varias leges edicere, &amp; inter</l>
+                  <l>Iſtas, de Arboribus Lex fuit una rata.</l>
+                  <l>Eſto Jovi Quercus, Pinus Cybelaeque dicata,</l>
+                  <l>Populus Alcidi, Pallas, Oliva tibi.</l>
+                  <l>Sit mihi, Bacchus ait, Vitis, dulciſſima Vitis,</l>
+                  <l>Deliciaeque virûm, deliciaeque Deùm.</l>
+                  <l>Formoſae Veneris circundet tempora Myrtus,</l>
+                  <l>Myrto cincta duas vicerat illa deas.</l>
+                  <l>Sol memer &amp; fati Phaethontis, &amp; orbis aduſti,</l>
+                  <l>Depoſuit radios, qui nocuere, ſuos.</l>
+                  <l>Pro radiis dixit, cingat mea tempora Laurus,</l>
+                  <l>Sola caput nostrum Laurea ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rta tegant.</l>
+                  <l>Nunc, Quàm me juvat
+<note n="*" place="margin">Vide O<g ref="char:EOLhyphen"/>vidii Me<g ref="char:EOLhyphen"/>tam l. 1.</note> eſculeas dimittere frondes?</l>
+                  <l>Jupiter has ſolus, ſi placet, inquit, habe.</l>
+                  <l>Sic Ph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bus: riſere Dii, riſcre Deaeque;</l>
+                  <l>Et mira attonito res mihi viſa fuit.</l>
+                  <l>Quamvis attonito, cauſas tamen addere cauſis</l>
+                  <l>Stat mihi, cur Phoebo Laurea ſacra fuit.</l>
+                  <l>Anne quòd, aiebam, flammis data conſcia Laurus</l>
+                  <l>Dat ſtrapitum, Dominum ceu miſerata ſuum?</l>
+                  <l>An, quod perpetuo Laurus frondeſcit honore,</l>
+                  <l>Et ſemper, Juvenis <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u Deus iſte, viget?</l>
+                  <l>An, quòd non ſaevi fulmen timet illa Ton<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntis,</l>
+                  <l>Fulmen, quô Phaethon praecipitatus erat?</l>
+                  <pb n="4" facs="tcp:64685:9"/>
+                  <l>An, quòd venturi narratur praeſcia, viſa eſt</l>
+                  <l>Arbor Fatidico Laurea digna Deo?</l>
+                  <l>Nunc hanc, nunc aliam placuit mihi fingere cauſam,</l>
+                  <l>Quin cauſa incerta eſt iſta, vel iſta mihi.</l>
+                  <l>Arborem in hanc versâ de Daphnê fabula venit</l>
+                  <l>In mentem; haud placuit fabula at iſta mihi.</l>
+                  <l>Ob fructum, dixi, Pallas dilexit Olivam;</l>
+                  <l>Neve minùs prudens Pallade, Phoebus erat:</l>
+                  <l>Inveni tandem: Medicorum Divus Apollo eſt;</l>
+                  <l>Conſului Medicos; hi retulere nihil.</l>
+                  <l>Ridebat quidam, ſi quiſquam, verus amicus,</l>
+                  <l>Quique Lucas miſero contulit alter opem;</l>
+                  <l>Ridebat, Quare, &amp;, Medicos tu conſulis, inquit?</l>
+                  <l>Ut radios, Laurum donat Apollo tibi.</l>
+                  <l>Non capio, di<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: Non me capis, ille ferebat?</l>
+                  <l>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Phaebus gratis munera quaeque ſua.</l>
+                  <l>Te Medici Laurum, te celavere, ſalutem</l>
+                  <l>Q<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amque Ars iſtorum non dabit, illa dabit.</l>
+                  <l>Vane, quid à Medicis poſthàc ſperare licebit?</l>
+                  <l>Quum Needhamus opem non tulit ipſe tibi.</l>
+                  <l>Non tulit ipſe tibi; qui ſaepe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e faucibus atrae</l>
+                  <l>Mortis, te raptum reddidit arte ſuâ.</l>
+                  <l>Needhamus, cui non Medicorum opprobria dici</l>
+                  <l>Poſſunt, quem doctum noveris atque pium.</l>
+                  <l>Pergit: luce ſuà quâ conſpicit omnia, Phoebus</l>
+                  <l>Virtutem Lauro vidit ineſſe ſuae.</l>
+                  <l>Nec deſivit adhuc: Quendam vidiſti n' amicum,</l>
+                  <l>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re tui miſero qui laceratus erat?</l>
+                  <l>Acceptam Lauro gratus fert ille ſalutem;
+<note place="margin">Dominus Meur.</note>
+                  </l>
+                  <l>Vidiſti, erectus quàm novus Aeſon adeſt?</l>
+                  <l>Arreptâ dextrâ Laurùs tunc comiter uſum</l>
+                  <l>Me docet; at ſurdis auribus ille canit.</l>
+                  <l>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rbo etiam atque etiam fueram diſtortus acuto;</l>
+                  <l>(Scilicet, haud Laurum corpora ſana probent)</l>
+                  <l>Aſſurgit tandem mulier ſata ſanguine Regum,</l>
+                  <l>(Cui non eſt Virtus nobilitate minor)</l>
+                  <l>Haec, tanquam ſuerat divino concita motu,</l>
+                  <l>Uterer ut Lauro, ter mihi juſſa dedit.</l>
+                  <pb n="6" facs="tcp:64685:10"/>
+                  <l>Nec mora: continuò illius praecepta faceſſo,</l>
+                  <l>Atque manu capio munera, Phoebe, tua.</l>
+                  <l>Admotâ Lauro, morbi fugêre dolores,</l>
+                  <l>Et ſumunt vires corpora nostra novas:</l>
+                  <l>Auricomis ramis tutus ſic Troïus Heros</l>
+                  <l>Tartarei vidit regna timenda Dei.</l>
+                  <l>Poſt Laurum acceptam, Quàm ſum diverſus ab iſto</l>
+                  <l>Olim qui fueram? Quàm novus alter ego?</l>
+                  <l>Diſſimilis primae Domina es Gerarda Parenti;</l>
+                  <l>Arbore tu vitam, contulit Eva necem.</l>
+                  <l>Viſa tuo Regi in ſomnis dedit herba ſalutem,</l>
+                  <l>Quam medici haud dederant, ſic Ptolomaee, tibi.</l>
+                  <l>Romano, multos hoſtes qui fudit, habere</l>
+                  <l>Appoſitam Laurum, fas erat, ante fores.</l>
+                  <l>Heu! Quàm non decuit talem ſacra Apollinis arbor?</l>
+                  <l>Servâſſe eſt Phoebi, non jugulâſſe viros.</l>
+                  <l>Arbor pluris erit Phoebi, ratione medendi,</l>
+                  <l>(Si minimo vatum ſcire futura dedit)</l>
+                  <l>Quid? Laurum ſpectat Phoebus de ſede coruſcâ,</l>
+                  <l>Reddentem miſeris corpora firma viris:</l>
+                  <l>I nunc, laetus ait, mireris, Pallas, Olivam,</l>
+                  <l>Vitemque oſtendas, ebrie Bacche, tuam.</l>
+                  <l>Afficiunt morbis mortales munera veſtra;</l>
+                  <l>E Lauro noſtrâ eſt certa reperta ſalus.</l>
+                  <l>Quòd per te, Alma Pales
+<note n="*" place="margin">V. Ovid. de Faſt. l. 4.</note>, valuere homineſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gregeſque,</l>
+                  <l>Grata tuis fuerat Laurus aduſta focis.</l>
+                  <l>Nunc, per me, Medicis licet ingeminare cachinnos,</l>
+                  <l>Arborem Apollineam dilacerentque jocis.</l>
+                  <l>Gratus ego ſcribam: Vireat Phaebeïa Laurus,</l>
+                  <l>Quâ mihi plus nummi, pluſque ſalutis adeſt.</l>
+               </lg>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="3" facs="tcp:64685:8"/>
+               <head>
+                  <hi>Upon the LAUREL, ſacred to</hi> APOLLO, <hi>whoſe Leaves I made uſe of (by the Ad<g ref="char:EOLhyphen"/>vice of Mr.</hi> Fiſher, <hi>and the repeated Com<g ref="char:EOLhyphen"/>mands of the Honourable the Lady</hi> Gerard) <hi>which have often cured me of a</hi> Rheu<g ref="char:EOLhyphen"/>matiſm.</head>
+               <byline>Paraphraſtically tranſlated by <hi>T. F.</hi> Gent.</byline>
+               <lg>
+                  <l>THE Gods and Goddeſſes, with joint Conſent,</l>
+                  <l>Met once (as Fame reports) in Parliament,</l>
+                  <l>And there diſpos'd, by high and firm Decrees,</l>
+                  <l>Of all Things; and, amongſt the reſt, of Trees.</l>
+                  <l>
+                     <hi>Jove</hi> made <hi>Dodona</hi>'s Noble Oak his Choice,</l>
+                  <l>His Right being firſt to an Elective Voice.</l>
+                  <lg>
+                     <l>The Mother-Goddeſs took the lofty Pine.</l>
+                     <l>The fruitful Olive was, <hi>Minerva,</hi> thine.</l>
+                     <l>And jolly <hi>Baccus</hi> choſe the ſpreading Vine.</l>
+                  </lg>
+                  <l>Sacred t' <hi>Alcides</hi> was the Poplar Tree:</l>
+                  <l>The Myrtle, Beauteous Queen of Love, to thee.</l>
+                  <l>Let all the Grove turn round into a Ring,</l>
+                  <l>And bowing low, ſalute thy Myrtle King.</l>
+                  <l>'Twas made for Rule, tho' not for Empire fit</l>
+                  <l>By Native Worth, yet by thy Choice of it.</l>
+                  <l>
+                     <hi>Apollo</hi> laid his too bright Glories down,</l>
+                  <l>And wreath'd about his Head a Laurel Crown,</l>
+                  <l>Loving much leſs to be in Sun ſhine ſeen,</l>
+                  <l>Than clad in new and everlaſting Green.</l>
+                  <l>
+                     <hi>Jove</hi> turn'd about his Head, and ſmiling ſaid,</l>
+                  <l>Now, now you have enjoy'd the flying Maid.</l>
+                  <l>Moſt thought the thing ridiculous and odd,</l>
+                  <l>A Choice too fooliſh for ſo wiſe a God;</l>
+                  <l>And all did <hi>Pallas</hi> and <hi>Lyaeus</hi> praiſe,</l>
+                  <l>Who from their Trees both Wine and Oil could raiſe.</l>
+                  <pb n="5" facs="tcp:64685:9"/>
+                  <l>I wonder'd likewiſe at an Act ſo vain,</l>
+                  <l>And feard the God had prejudic'd his Brain;</l>
+                  <l>And ſought a thouſand Reaſons in my Mind,</l>
+                  <l>T' excuſe the Choice, but could no Reaſon find.</l>
+                  <l>I knew the Laurel had been always worn,</l>
+                  <l>And ſtill the Heads of Poets did adorn;</l>
+                  <l>But ſince the Rhiming Tribe are always poor,</l>
+                  <l>(For Father <hi>Homer</hi> begg'd from Door to Door)</l>
+                  <l>The Laurel was for <hi>Mercury</hi> more fit,</l>
+                  <l>As th' Emblem both of Poverty and Wit.</l>
+                  <l>At laſt, thought I, ſince <hi>Phoebus</hi> has the Art,</l>
+                  <l>As God of Phyſick, Med'cine to impart,</l>
+                  <l>Perhaps by Laurel he ſome way has found</l>
+                  <l>To cure an high Diſeaſe, or heal a Wound.</l>
+                  <l>I ask't the Doctors, whether it were ſo;</l>
+                  <l>Who ſmiling at my Queſtion, anſwered, No.</l>
+                  <lg>
+                     <l>But wiſer <hi>Fiſher</hi> better Comfort gave,</l>
+                     <l>
+                        <hi>Fiſher</hi> the Name of Second <hi>Luke</hi> may have;</l>
+                     <l>
+                        <hi>Fiſher,</hi> that can both Souls and Bodies ſave.</l>
+                  </lg>
+                  <l>Conſult Phyſicians, Friend, ſaid he, no more,</l>
+                  <l>But take <hi>Apollo</hi>'s much more bounteous Store;</l>
+                  <l>He with a quick and all diſcerning Eye</l>
+                  <l>The ſecret Vertues did of Laurel ſpie.</l>
+                  <lg>
+                     <l>All may enjoy alike his Beams and Tree;</l>
+                     <l>He ſcatters both his Bleſſings, frank and free;</l>
+                     <l>Gives the beſt Phyſick, and yet takes no Fee.</l>
+                  </lg>
+                  <l>Doſt thou not know, (thou canſt not chuſe but know)</l>
+                  <l>How our dear Friend was wrack't a while ago?
+<note place="margin">Monſieur Meur.</note>
+                  </l>
+                  <l>How your Diſeaſe did all his Limbs ſurprize?</l>
+                  <l>A Torture, which almoſt all Art deſies.</l>
+                  <l>Yet he no ſooner did theſe Leaves apply,</l>
+                  <l>But he cry'd out aloud, I will not die.</l>
+                  <l>I feel, I change this heavy lump of Earth,</l>
+                  <l>And, <hi>Aeſon</hi> like, receive a ſecond Birth.</l>
+                  <l>This, and much more, my dear Friend <hi>Fiſher</hi> told,</l>
+                  <l>And then began its Virtues to unfold.</l>
+                  <l>I ſtupid, hardly heard the Words he ſpake,</l>
+                  <l>Nor minded Counſel, I refus'd to take:</l>
+                  <pb n="7" facs="tcp:64685:10"/>
+                  <l>'Till by a Noble Lady order'd thrice,</l>
+                  <l>I yielded to her ſafe and wiſe Advice.</l>
+                  <l>The Propheteſs affirm'd, th' Effects were ſure,</l>
+                  <l>And both at once foretold and made the Cure.</l>
+                  <l>Tell me, my Muſe, for thou alone canſt tell,</l>
+                  <l>What Magick in the beauteous Sex does dwell?</l>
+                  <l>What charming Witchcraft do the Fair invent,</l>
+                  <l>To force, and yet perſuade us to conſent?</l>
+                  <l>Bleſt be the Sex, ſo apt and prone to ſave,</l>
+                  <l>And bleſt the Tongue, which thoſe Injunctions gave.</l>
+                  <l>What diff'rent Gifts do I from you receive,</l>
+                  <l>From thoſe beſtow'd by my firſt Mother <hi>Eve?</hi>
+                  </l>
+                  <l>She brought in Death by one forbidden Tree,</l>
+                  <l>You by another do new Life decree;</l>
+                  <l>And by an Act, which nothing can confute,</l>
+                  <l>Have made the Leaf more noble than the Fruit:</l>
+                  <l>For nothing, when I'm ſick, can that excel,</l>
+                  <l>Which but to uſe and try, is to be well.</l>
+                  <l>That healing Herb was ſomething like this Tree,</l>
+                  <l>Which <hi>Alexander</hi> did in Viſion ſee,</l>
+                  <l>And did his Health to <hi>Ptolemy</hi> reſtore,</l>
+                  <l>When the Phyſicians had quite gi'n him o're.</l>
+                  <l>
+                     <hi>Rome</hi> (which allow'd t' each mighty Conqueror</l>
+                  <l>To plant a Laurel tree before his Door)</l>
+                  <l>Miſtook its Property, and plac'd it ill;</l>
+                  <l>The Laurel is to cure, and not to kill.</l>
+                  <l>And therefore <hi>Phoebus</hi> values it as good,</l>
+                  <l>Rather for ſaving, than for ſpilling Blood.</l>
+                  <l>Now, O Phyſicians, torture whom you pleaſe</l>
+                  <l>With nauſeous Potions, worſe than the Diſeaſe.</l>
+                  <l>Who'll now eſteem thoſe Medcines you impart,</l>
+                  <l>When one poor Leaf can baffle all your Art.</l>
+                  <l>Mock as ye will, ye have my leave to grin;</l>
+                  <l>I'll truſt the Proverb, <hi>Let them laugh that win:</hi>
+                  </l>
+                  <l>And will that ſafer Phyſick ſtill purſue,</l>
+                  <l>Which gives me Health, and ſaves my Money too.</l>
+               </lg>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>LONDON,</hi> Printed for <hi>W. Crooke</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar.</hi> 1690.</p>
+            </div>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64685:11"/>
+            <head>Books Printed for <hi>W. Crooke.</hi>
+            </head>
+            <p n="1">1. <hi>Homer</hi>'s <hi>Iliads</hi> and <hi>Odyſſes,</hi> tranſlated into <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> by <hi>Thomas Hobbes</hi> of <hi>Malmsbury.</hi> 12<hi rend="sup">o</hi>.</p>
+            <p n="2">2. The Wonders of the <hi>Peak</hi> in <hi>Darbyſhire,</hi> common<g ref="char:EOLhyphen"/>ly called <hi>The Devil's Arſe of Peake;</hi> in a Poem, <hi>Latin</hi> and <hi>Engliſh.</hi> By <hi>Tho. Hobbes.</hi> 12<hi rend="sup">o</hi>.</p>
+            <p n="3">3. The Hiſtorian's Guide; or <hi>Britains</hi> Remembran<g ref="char:EOLhyphen"/>cer: Being an Account of all Actions, <hi>&amp;c.</hi> Deſigns, <hi>&amp;c.</hi> Preferments, <hi>&amp;c.</hi> that are worthy notice, that have hapned in His Majeſty's Kingdoms from <hi>Anno Dom.</hi> 1600. to this time; and ſhewing the Day of the Month each Action was performed in: With an Al<g ref="char:EOLhyphen"/>phabetical Table. In 12<hi rend="sup">o</hi>. Price 2 <hi>s.</hi>
+            </p>
+            <p n="4">4. <hi>Peppa,</hi> a Novel, with the Songs ſet to Muſick for two Voices. By a Gentlewoman. In 12<hi rend="sup">o</hi>.</p>
+            <p n="5">5. <hi>Britains</hi> Glory; or, <hi>Englands</hi> Bravery: Wherein is ſhewed the Degrees of Honour from the Prince to the Peaſant, and the proper Places and Precedency of all Perſons, from the Throne to the Bond-man: With a <hi>Dictionary</hi> explaining Terms in <hi>Heraldry.</hi> Alſo an Account of all the Orders of Knighthood in <hi>Chri<g ref="char:EOLhyphen"/>ſtendom, &amp;c.</hi> By <hi>B. Smithurſt.</hi> 12<hi rend="sup">o</hi>. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p n="6">6. A Modern View of ſuch Parts of <hi>Europe</hi> that have lately been, and ſtill are the Places of great Tranſactions, <hi>viz. Italy, France, Germany, Spain, &amp;c.</hi> With curious Remarks of Antiquity. 8<hi rend="sup">o</hi>. Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64685:11"/>
+            <head>A Plain and Eaſie METHOD, <hi>&amp;c.</hi>
+            </head>
+            <p>IN time of <hi>Peſtilence,</hi> be<g ref="char:EOLhyphen"/>cauſe a Phyſician cannot eaſily, or often, be con<g ref="char:EOLhyphen"/>ſulted with; Therefore it behoveth all Perſons, as well Poor as Rich, to be furniſh'd with Remedies againſt that Con<g ref="char:EOLhyphen"/>tagious Diſeaſe; and certain Rules, or a Method how to uſe them: Which Method being very plain, and almoſt the ſame to all People, conſiſts chiefly in theſe
+<pb n="2" facs="tcp:64685:12"/>two Parts, <hi>viz. How to pre<g ref="char:EOLhyphen"/>ſerve the Whole from take<g ref="char:EOLhyphen"/>ing Infection; And how to cure the Sick that are in fected.</hi>
+            </p>
+            <div n="prevention" type="part">
+               <p>Touching the Firſt; Though the ſureſt way is to fly from it, yet in regard this cannot be done by all, ſome Means ſhould be us'd to ſecure [ſo far as it is poſ<g ref="char:EOLhyphen"/>ſible] thoſe that are forced to ſtay by it. Such Means of <hi>Pre<g ref="char:EOLhyphen"/>vention,</hi> either concern the Publick Magiſtrate, which are already ſufficiently known, and commonly practis'd in all places that are infected, and it would be ſuperfluous to repeat them here; Or elſe ſuch as belong to private Perſons, what ways eve<g ref="char:EOLhyphen"/>ry Man that lives in, or near an infected place, may arm him<g ref="char:EOLhyphen"/>ſelf
+<pb n="3" facs="tcp:64685:12"/>againſt the danger of Con<g ref="char:EOLhyphen"/>tagion; Which ſhould be en<g ref="char:EOLhyphen"/>deavour'd, as well by purifying the Air we breathe, as alſo by fortifying our ſelves againſt taking the Infection at our Noſtrils, Mouth, or Pores of the Body, which are the chiefeſt, if not the only parts the Poiſon creeps in at.</p>
+               <p>That the <hi>Air</hi> we breathe in may be wholeſome, all Things, that may advance or add to the corruption of it, ſhould diligent<g ref="char:EOLhyphen"/>ly be removed; our Houſes, and Streets kept clean; all Filth, and whatever may cauſe noiſom ſmells, be taken away; and a<g ref="char:EOLhyphen"/>mongſt other things, the ſmell of Sope-Suds, and Lye, in the waſh<g ref="char:EOLhyphen"/>ing of Clothes, be avoided; this, Experience has taught to be very
+<pb n="4" facs="tcp:64685:13"/>dangerous; as 'tis obſerved by <hi>Diemerbroek</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ander Hey<g ref="char:EOLhyphen"/>den.</hi>
+               </p>
+               <p>Beſides the ſuppreſſing of Va<g ref="char:EOLhyphen"/>pours that may increaſe the in<g ref="char:EOLhyphen"/>fection of the <hi>Air,</hi> it is to be purg'd of that Malignity it brings with it from other infected pla<g ref="char:EOLhyphen"/>ces; and this is done by great Fires, which ſhould be continu<g ref="char:EOLhyphen"/>ally kept, except the Weather be too hot, and by Fumes of <hi>Sul<g ref="char:EOLhyphen"/>phur, Nitre, Frankincenſe, Pitch, Roſin, Tarr,</hi> and the like, which every day ſhould be burnt in the Room we moſt frequent, alſo before our Doors, and on the tops of our Houſes. Of ſimple Medicines to be us'd for this pur<g ref="char:EOLhyphen"/>poſe, <hi>Brimſtone</hi> is commended for the beſt that is; 'Tis likely that <hi>Vitriol,</hi> which partakes much
+<pb n="5" facs="tcp:64685:13"/>of the like acid Spirit, may be very proper; but in regard 'tis not eaſily combuſtible, make this mixture, and ſtrew of it on Coals in a hot Chafing<g ref="char:EOLhyphen"/>diſh.</p>
+               <ab type="recipe">
+                  <hi>Take green</hi> Vitriol <hi>cal<g ref="char:EOLhyphen"/>cin'd,</hi> Saltpeter, <hi>and</hi> Sulphur, <hi>of each a pound, beat them well together, and keep it for uſe.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>In cloſe Rooms, and in hot Weather,</hi> Vinegar <hi>with</hi> Rue, <hi>or</hi> Wormwood, <hi>chopt ſmall, and evaporated in a perfuming Pot; or elſe Peſtilential</hi> Vi<g ref="char:EOLhyphen"/>negar [as we ſhall deſcribe] <hi>thrown on a hot Brick. Or
+<pb n="6" facs="tcp:64685:14"/>take</hi> Myrrh, Galbanum, Am<g ref="char:EOLhyphen"/>moniac, <hi>of each half an Ounce; boyl theſe in a Quart, or three Pints of</hi> White-Wine Vinegar, <hi>'till they are all diſſolv'd; put half a ſpoonful of this at a time on a hot Brick.</hi>
+               </ab>
+               <p>Some commend Slakeing of <hi>Lime,</hi> ſuppoſing the fume that ariſeth from it, may purifie the Air: 'Tis poſſible, if this be done with <hi>Vinegar,</hi> either ſimple, or impregnated with <hi>Alexipharmacal</hi> Medicines, it may be more ef<g ref="char:EOLhyphen"/>fectual.</p>
+               <p>Next to the Cure of the <hi>Air,</hi> to render that as wholeſom as we can; we muſt arm our ſelves againſt taking in that Malignity, which [notwithſtanding all means
+<pb n="7" facs="tcp:64685:14"/>of purifying it] ſhall ſtill remain mixt with it. Now becauſe the Spirits are commonly the firſt that receive Infection; We muſt fortifie them, that they may not eaſily admit the approaches of their Enemy, which when they are in full vigour and expanſion, they will repel, and as it were keep off at a diſtance; Therefore <hi>Wine</hi> and <hi>Confidence</hi> are a good <hi>Preſervative</hi> againſt the <hi>Plague:</hi> But when the Spirits, through fear, or want of ſup<g ref="char:EOLhyphen"/>ply, do recede, and are forc'd to give back, the Enemy enters, and firſt ſeizeth them, and thence gets into the Blood and Hu<g ref="char:EOLhyphen"/>mors; Therefore much <hi>Faſting</hi> and <hi>Emptineſs</hi> are <hi>bad:</hi> But every one ſhould Eat and Drink at convenient Hours, in ſuch
+<pb n="8" facs="tcp:64685:15"/>manner and meaſure, as may always keep the Spirits lively and chearful, and endeavour to compoſe his Mind and Affecti<g ref="char:EOLhyphen"/>on againſt fear and ſadneſs.</p>
+               <p>But beſides keeping the Spi<g ref="char:EOLhyphen"/>rits in a good height, and more eſpecially when that cannot be done, as in Perſons that are naturally fearful, and of a ten<g ref="char:EOLhyphen"/>der Conſtitution, the Spirits ſhould conſtantly, as it were, be kept arm'd with ſuch Remedies as reſiſt the Poyſon; that is, the uſe of proper Antidotes a<g ref="char:EOLhyphen"/>gainſt the <hi>Plague.</hi>
+               </p>
+               <p>I ſhall ſet down ſome <hi>Pre<g ref="char:EOLhyphen"/>ſervatives</hi> to be taken of eve<g ref="char:EOLhyphen"/>ry Morning, and again at Night, by thoſe that live in infected places.</p>
+               <pb n="9" facs="tcp:64685:15"/>
+               <ab type="recipe">
+                  <hi>Take of Conſerve of</hi> Wood-Sorrel <hi>four Ounces;</hi> Confectio Liberans, <hi>and</hi> Mithridate, <hi>of each half an Ounce; Salt of</hi> Wormwood <hi>two Drams; Confection of</hi> Hyacinth <hi>one Dram;</hi> Tormentil <hi>Roots, and fine</hi> Bole, <hi>of each half a Dram; Peſtilential</hi> Vinegar <hi>half an Ounce; mix all with Syrup of</hi> Citron; <hi>Take as much as a Nutmeg, Night and Morning.</hi>
+               </ab>
+               <pb n="10" facs="tcp:64685:16"/>
+               <p>For the Poorer Sort, that Me<g ref="char:EOLhyphen"/>dicine of the Ancients, may be proper, <hi>viz.</hi>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Rue <hi>two hand<g ref="char:EOLhyphen"/>fuls,</hi> Figs <hi>and</hi> Walnut-Kernels, <hi>of each twen<g ref="char:EOLhyphen"/>ty four, common Salt half an Ounce; Which beat all together in a Mor<g ref="char:EOLhyphen"/>tar, till it be well mix'd; Take of it as much as a Nutmeg every Morning and Night.</hi>
+               </ab>
+               <p>This Medicine may be ſeveral ways advanc'd, by adding ſome <hi>Alexipharmacal</hi> Remedies to it, as by putting Salt of <hi>Wormwood,</hi>
+                  <pb n="11" facs="tcp:64685:16"/>inſtead of common Salt, and by adding an Ounce of <hi>Venice Treacle,</hi> to the whole Compo<g ref="char:EOLhyphen"/>ſition.</p>
+               <p>For thoſe that cannot take an <hi>Electuary,</hi> theſe <hi>Tablets</hi> may be proper to eat, about one Dram at a time, two or three times a day.</p>
+               <ab type="recipe">
+                  <hi>Take of the Roots of</hi> Vir<g ref="char:EOLhyphen"/>ginian-Snakeweed, Zedoary, Contra<g ref="char:EOLhyphen"/>yerva, Species Li<g ref="char:EOLhyphen"/>berans, <hi>of each two Drams;</hi> Camphire <hi>two Drams; mix all finely pouder'd, then diſ<g ref="char:EOLhyphen"/>ſolve eight Ounces of
+<pb n="12" facs="tcp:64685:17"/>fine Sugar in Peſtilen<g ref="char:EOLhyphen"/>tial</hi> Vinegar; <hi>Boyl it Candy high, and ad<g ref="char:EOLhyphen"/>ding the Pouder to it, make all into Lo<g ref="char:EOLhyphen"/>zenges.</hi>
+               </ab>
+               <p>For ſome that are of a hot<g ref="char:EOLhyphen"/>ter Conſtitution, and a high Sanguine Temper, it may be proper to take every Morning a ſpoonful of Peſtilential <hi>Vinegar</hi> in a little <hi>Carduus</hi> water, or plain <hi>Wallnut</hi> water; or elſe drink a draught of <hi>Poſſet-Drink,</hi> made with a Spoonful of that <hi>Vi<g ref="char:EOLhyphen"/>negar.</hi>
+               </p>
+               <p>
+                  <label>Let the <hi>Peſtilential <g ref="char:V">Ʋ</g>inegar</hi> be made thus.</label>
+               </p>
+               <pb n="13" facs="tcp:64685:17"/>
+               <ab type="recipe">
+                  <hi>Take of the Roots of</hi> An<g ref="char:EOLhyphen"/>gelica, Butter-Burr, Tormentil, Elecam<g ref="char:EOLhyphen"/>pane, <hi>of each half an Ounce,</hi> Virginian — Snake-Weed, <hi>choice</hi> Zedoa<g ref="char:EOLhyphen"/>ry, Contrayerva, <hi>of each three Drams; Leaves of</hi> Scordium, Rue, Goats-Rue, <hi>of each one handful;</hi> Mari<g ref="char:EOLhyphen"/>gold Flowers, Clove<g ref="char:EOLhyphen"/>gilloflowers, <hi>of each half a handful; Seeds of</hi> Citron <hi>and</hi> Cardu<g ref="char:EOLhyphen"/>us, <hi>of each two Drams; Cut and bruiſe theſe, and
+<pb n="14" facs="tcp:64685:18"/>put them in a Glaſs-Bot<g ref="char:EOLhyphen"/>tle, with three Pints of the beſt</hi> Vinegar, <hi>to digeſt for ten days.</hi>
+               </ab>
+               <p>When the Stomach, by fre<g ref="char:EOLhyphen"/>quent taking of one ſort of <hi>Antidote,</hi> begins to loath it: In ſuch Caſes the uſe of it may be changed into ſome other: And if the Stomach withal ſhould be ill, and defective, in Appetite and Digeſtion; let the Party take every Morning, ten or twelve Drops of <hi>Elixir Proprietatis,</hi> in plain <hi>Wormwood</hi> Water, or elſe in <hi>Wormwood</hi> Wine.</p>
+               <p>Thoſe that have Coughs, and ill Lungs, may take five or ſix Drops of <hi>Balſum</hi> of <hi>Sulphur,</hi> made thus.</p>
+               <pb n="15" facs="tcp:64685:18"/>
+               <ab type="recipe">
+                  <hi>Take Flower of</hi> Sulphur, <hi>two Ounces, melt it in an Earthen Diſh glaz'd on the fire, then put to it two Ounces of Salt of</hi> Wormwood; <hi>ſtir it for a Quarter of an Hour, taking care that it does not catch fire; Then put into it of</hi> Aloes, Myrrh, Olibanum, <hi>finely pou<g ref="char:EOLhyphen"/>der'd, of each one Dram, of</hi> Saffron <hi>half a Dram; Keep this ſtirring half a Quarter of an Hour; Take it off, and put half an Ounce of it pouder'd,
+<pb n="16" facs="tcp:64685:19"/>to digeſt in five or ſix Ounces of good Spirit of Wine; It will take in a ſhort time a very excellent Tincture: Which keep for uſe.</hi>
+               </ab>
+               <p>Or elſe this Balſam may be made with <hi>Spiritus Theriacalis Camphoratus,</hi> and ſo will be more effectual againſt the <hi>Plague,</hi> Or which is more applicable to uſe,</p>
+               <ab type="recipe">
+                  <hi>Put an Ounce of that Pou<g ref="char:EOLhyphen"/>der newly made, into a pretty large Glaſs, and put to it a Quart of
+<pb n="17" facs="tcp:64685:19"/>good Sack; Set it in a gentle heat, for three or four Hours, it will take a Tincture: And of this one may take half a Spoon<g ref="char:EOLhyphen"/>ful at a time: And I ſuppoſe two Spoonfuls in a convenient</hi> Vehicle, <hi>may be a good</hi> Sudori<g ref="char:EOLhyphen"/>fick <hi>to be given one that is infected.</hi>
+               </ab>
+               <p>Though Purging in time of Peſtilence is not good, as <hi>Die<g ref="char:EOLhyphen"/>merbroek</hi> by frequent Examples has obſerv'd, yet in <hi>Cachochymick</hi> Bodies, it may be convenient once in a fortnight, to take a Doſe of <hi>Pillulae Ruffi;</hi> Take
+<pb n="18" facs="tcp:64685:20"/>half a Dram at Night, and next Morning take the wonted An<g ref="char:EOLhyphen"/>tidote, as at other times.</p>
+               <p>Alſo for thoſe that live in an infected Air, that there is ſuſpicion that they may daily take in ſome peſtiferous Vapours, which fer<g ref="char:EOLhyphen"/>menting with the Blood and Humours, may inſenſibly at laſt break out in the <hi>Plague;</hi> it may not be amiſs, once or twice a week, to take pretty large <hi>Sweats</hi> in their Beds: And this to be done, eſpecially if the Party has had any occa<g ref="char:EOLhyphen"/>ſion whereby he may ſuſpect him<g ref="char:EOLhyphen"/>ſelf to have been more open to infection, or that he has taken any: After ſuch Sweat he ſhould keep his Chamber the forepart of the day, till the Pores are reduc'd to be as they were before.</p>
+               <pb n="19" facs="tcp:64685:20"/>
+               <ab type="recipe">
+                  <hi>To provoke ſuch a Sweat: Take of</hi> Venice Trea<g ref="char:EOLhyphen"/>cle, <hi>one Dram; diſſolve it in three Ounces of</hi> Carduus <hi>Water, add a Spoonful of</hi> Syrup <hi>of Peſtilential</hi> Vinegar; <hi>Or take a Draught of Poſſet-Drink, made with Peſtilential</hi> Vinegar; <hi>In which boyl a few</hi> Pe<g ref="char:EOLhyphen"/>taſitis <hi>Roots: To pro<g ref="char:EOLhyphen"/>mote and continue the Sweat, take Poſſet-Drink with</hi> Meadow-Sweet, <hi>or elſe with</hi> Carduus, <hi>or</hi> Marigold-Flowers <hi>boyl'd in it.</hi>
+               </ab>
+               <pb n="20" facs="tcp:64685:21"/>
+               <p>Beſides the daily and conſtant uſe of ſuch <hi>Alexipharmacal</hi> Re<g ref="char:EOLhyphen"/>medies, there are other Means, which occaſionally and ſome<g ref="char:EOLhyphen"/>times continually ſhould be taken. For in regard we always draw in the Air at our Noſtrils and Mouth, theſe parts ſhould be well guarded with ſome Anti<g ref="char:EOLhyphen"/>dotes, that may keep out the poy<g ref="char:EOLhyphen"/>ſonous Vapours from entring in, and eſpecially as often as upon oc<g ref="char:EOLhyphen"/>caſion we are more nearly expos'd to danger of Infection. To this end, ſome things to ſmell to, o<g ref="char:EOLhyphen"/>thers to be held in the Mouth, chew'd, and ſwallow'd down, are frequently to be inſiſted on.</p>
+               <p>That which ſeems at once to ful<g ref="char:EOLhyphen"/>fil moſt of theſe intentions, is taking of Tobacco in a Pipe; the Smoke of this ſecures thoſe parts which
+<pb n="21" facs="tcp:64685:21"/>lye openeſt, and at once inter<g ref="char:EOLhyphen"/>cepts the Contagion from the Brain, Lungs, and Stomach: Nay more than this, it ſtirs the Blood and Spirits all the Body over, and makes them ſhake off any poyſon<g ref="char:EOLhyphen"/>ous Matter that adher'd to them: Inſomuch that <hi>Diemerbroek</hi> ac<g ref="char:EOLhyphen"/>counts it not only a Preſervative, but tells us, that himſelf, when he was ſeveral times infected, by taking five or ſix Pipes of Tobacco together was preſently cur'd. And amongſt us in <hi>England</hi> 'tis report<g ref="char:EOLhyphen"/>ed, That in the laſt great Plague, no Tobacco-Shop was infected: If 'tis not of ſo great virtue ſtill amongſt us, the reaſon is, be<g ref="char:EOLhyphen"/>cauſe moſt Men have been accu<g ref="char:EOLhyphen"/>ſtomed to take it ſo exceſſively; wherefore it is grown ſo familiar to them, that it produceth no al<g ref="char:EOLhyphen"/>teration
+<pb n="22" facs="tcp:64685:22"/>when it ſhould be us'd as an Antidote.</p>
+               <p>Beſides the frequent uſe of To<g ref="char:EOLhyphen"/>bacco, which doubtleſs in time of Plague may be profitable for them that can take it; others, and alſo To<g ref="char:EOLhyphen"/>bacconiſts, at ſome times ſhould be furniſhed with ſomething to ſmell to when they paſs through infect<g ref="char:EOLhyphen"/>ed Places. <hi>Wormwood</hi> and <hi>Rue, Galba<g ref="char:EOLhyphen"/>num, Caſtor</hi> and <hi>Vinegar</hi> are good: The vulgar practice of putting <hi>Mithridate,</hi> or <hi>Treacle,</hi> or <hi>Tar</hi> in their Noſtrils, may be very uſeful; or to have a <hi>Pomander</hi> to carry in ones hand, or put into the top of a Staff.</p>
+               <ab type="recipe">
+                  <hi>Take of the Roots of</hi> Con<g ref="char:EOLhyphen"/>trayerva <hi>and</hi> Virgi<g ref="char:EOLhyphen"/>nian-Snakeweed <hi>pou<g ref="char:EOLhyphen"/>der'd,
+<pb n="23" facs="tcp:64685:22"/>of each Two Drams; of the beſt</hi> Myrrh <hi>pou<g ref="char:EOLhyphen"/>der'd, half an Ounce; of</hi> Camphire <hi>half a Dram. Let it be made a Pouder.</hi>
+               </ab>
+               <p>Part of this may be enclos'd in a fine Silk Bag, and oftentimes dip it in <hi>Peſtilential Vinegar,</hi> and ſo ſmell to it. To the other part of this, add <hi>Oyl of Nutmegs</hi> by Ex<g ref="char:EOLhyphen"/>preſſion, and <hi>Oyl of Cap-ivy,</hi> of each a Dram, or as much as will make it into a Maſs; alſo add of <hi>Balſam of Peru</hi> one Scruple. Dip Cotton Wool in <hi>Elixir Pro<g ref="char:EOLhyphen"/>prietatis,</hi> incloſe it in fine Silk, and put it in the head of a Staff, or Civet Box, to ſmell to.</p>
+               <p>For Medicines to hold in the Mouth, and chew on, Roots of
+<pb n="24" facs="tcp:64685:23"/>
+                  <hi>Zedoary, Contrayerva,</hi> and <hi>Snake<g ref="char:EOLhyphen"/>weed</hi> are very good; alſo Roots of <hi>Enulacampane, Angelica,</hi> and <hi>Maſter<g ref="char:EOLhyphen"/>wort;</hi> theſe either alone, or ma<g ref="char:EOLhyphen"/>cerated in <hi>Vinegar,</hi> and dried a<g ref="char:EOLhyphen"/>gain. <hi>Myrrh</hi> is very excellent: Some commend Tobacco, and chew it almoſt continually.</p>
+               <p>Theſe are the chiefeſt Remedies which help to keep Infection out of the Body. There is yet ano<g ref="char:EOLhyphen"/>ther ſort which ſerves to let it out, and carry it away, before it grows to a head, <hi>viz. Iſſues,</hi> which have been found by often experience to be good Preſervatives in time of Plague: For as much as Na<g ref="char:EOLhyphen"/>ture having a conſtant vent for excrementitious matter thrown off the Blood, by the ſame way ex<g ref="char:EOLhyphen"/>pels poyſonous Atoms ſoon after they are receiv'd into the Body.</p>
+               <pb n="25" facs="tcp:64685:23"/>
+               <p>Concerning Rules of Diet I need not ſay much, becauſe ſuch Precepts are commonly known: 'Tis to be obſerv'd in general, that only wholſome Food ſhould be taken: Very ſalt Meats, as hang'd Beef, Bacon, Pork, ſalt Fiſh, alſo ſhell-Fiſh, moſt kind of Herbage and raw Fruit ſhould be avoided. The Meals ſhould be moderate, and eaten in due ſeaſon. Some Antidotal Things may be taken with the Meat, or mix'd in the Sauce; <hi>Clove Gilloſlowers</hi> pick<g ref="char:EOLhyphen"/>led, alſo <hi>Citron</hi> Peel and Juice, <hi>Rasberries, Currants, Pomegranate</hi> Juices, <hi>Peſtilential Vinegar,</hi> and <hi>Mu<g ref="char:EOLhyphen"/>ſtard,</hi> made with the Seeds of <hi>Thla<g ref="char:EOLhyphen"/>ſpi,</hi> may be of ſome good effect.</p>
+               <p>Theſe kind of Remedies, and manner of living, ought chiefly to be inſiſted on as Preſervatives
+<pb n="26" facs="tcp:64685:24"/>againſt the Plague. Thoſe that are timorous and of tender Con<g ref="char:EOLhyphen"/>ſtitutions require a ſupport from the uſe of more means; whereas Perſons that are ſtrong, and of a bold temper, have need of the leſs Remedies. But 'tis not ſafe for a<g ref="char:EOLhyphen"/>ny to be ſo confident as to dare to converſe with infected People, or live in the midſt of Contagion without any Antidote at all.</p>
+               <p>In the uſe of means, caution is to be had, that ſtrong and hot Cor<g ref="char:EOLhyphen"/>dials be not too often taken, nor yet indifferently by all People; for that will inflame the Blood, and make it apt to kindle a Fever, which at ſuch times ſoon turns to the Plague.</p>
+               <p>The like caution is to be had againſt immoderate drinking of Wine; though a moderate pro<g ref="char:EOLhyphen"/>portion
+<pb n="27" facs="tcp:64685:24"/>chears and fortifies the Spirits, yet too much greatly diſ<g ref="char:EOLhyphen"/>orders them, and thereby People are more expos'd to take Infection.</p>
+               <p>Letting of Blood in time of Plague has been obſerv'd to be ve<g ref="char:EOLhyphen"/>ry pernicious; ſo alſo oft or ſtrong Purging; for the Veins being emptied either way, will readily ſuck in whatever poyſon<g ref="char:EOLhyphen"/>ous Atoms lurk in the outward Pores of the Body, which being admitted, become the more pre<g ref="char:EOLhyphen"/>valent, becauſe the Spirits being depauperated, are leſs able to ſub<g ref="char:EOLhyphen"/>due or repel them.</p>
+               <trailer>Thus much of the way of Pre<g ref="char:EOLhyphen"/>ſervation:</trailer>
+            </div>
+            <div n="cure" type="part">
+               <head>Next we are to treat of the Cure of thoſe that are in<g ref="char:EOLhyphen"/>fected.</head>
+               <p>The Cure of the Plague ad<g ref="char:EOLhyphen"/>mits of no Delay; neither in<g ref="char:EOLhyphen"/>deed
+<pb n="28" facs="tcp:64685:25"/>is there need of any deli<g ref="char:EOLhyphen"/>beration what ought to be done; but as ſoon as any one finds himſelf infected, let him forth<g ref="char:EOLhyphen"/>with take to his Bed, and having pray'd to Almighty God for his Bleſſing, begin to uſe the Means.</p>
+               <p>If the Party is much oppreſs'd at his Stomach, and ſtrains to vomit, or elſe with vomiting throws up bitter and ſtinking Matter; let him preſently take a large draught of <hi>Carduus,</hi> or <hi>Camomile</hi> Poſſet-Drink, and in it either half a Dram of Salt of <hi>Vitriol,</hi> or two Ounces of Liquor of <hi>Squills,</hi> and with his finger or a Feather, fetch up what is con<g ref="char:EOLhyphen"/>tain'd in his Stomach; but take no Antimonial Medicine, that will work beyond the Stomach.
+<pb n="29" facs="tcp:64685:25"/>As ſoon as he has vomited, [or if there is no occaſion for this E<g ref="char:EOLhyphen"/>vacuation] let him preſently be put into a Sweat, and continue for twelve hours, more or leſs, according as his ſtrength will hold out, and not ſleep in it, or not till the latter end of it.</p>
+               <p>If when he begins to Sweat, or endeavours it, his Vomiting ſtill perſiſts, then apply to the pit of the Stomach a Toaſt of White-Bread, ſpread over with <hi>Treacle</hi> or <hi>Mithridate,</hi> and dipt in <hi>Claret-Wine</hi> or <hi>Peſtilential Vi<g ref="char:EOLhyphen"/>negar,</hi> made Scalding hot in a Peuter Diſh; Wrap this in fine Linnen, and apply it very hot.</p>
+               <p>After a plentiful Sweat for twelve, fourteen, or eighteen hours, give him ſome Refective,
+<pb n="30" facs="tcp:64685:26"/>as Broth, Caudle, Mace-drink, or the like; and a little while after ſuffer him to ſleep if he can. Then give him temperate Cordials by way of Confection or Julep, or both; which repeat every third or fourth hour: Alſo at the time that the Party ſettles to ſleep, lay <hi>Veſicatory</hi> Plaiſters behind the Ears, and under the Arm-pits, and alſo in the Groin.</p>
+               <p>After he has ſlept, or endea<g ref="char:EOLhyphen"/>vour'd it, and his Spirits are pret<g ref="char:EOLhyphen"/>ty well refreſh'd, at a moderate diſtance from the firſt ſweating, <hi>viz.</hi> Eighteen, or Four and Twen<g ref="char:EOLhyphen"/>ty hours, ſooner or later, accord<g ref="char:EOLhyphen"/>ing as Symptoms are more or leſs urgent, and his ſtrength is able, repeat the Sweating again; and ſo proceed through the whole Cure; one while Sweating, and
+<pb n="31" facs="tcp:64685:26"/>another while refreſhing his Spi<g ref="char:EOLhyphen"/>rits by temperate Cordials and Sleep; betwixt whiles admini<g ref="char:EOLhyphen"/>ſtring fit Nouriſhment, until ſuch time as the Symptoms are abated wholly, and either the Diſeaſe terminated, or elſe the Maligni<g ref="char:EOLhyphen"/>ty is driven all out in Boyls or Carbuncles; which how they muſt be order'd, ſhall be ſet down.</p>
+               <p>Though the ſame kind of Su<g ref="char:EOLhyphen"/>dorificks may be given indifferent<g ref="char:EOLhyphen"/>ly to moſt People, yet becauſe there is variety of ſuch Medicins, in reſpect both of the Matter and Form of them, therefore ſome choice may be had in the adminiſtration of them, that ſo we may comply with the Pa<g ref="char:EOLhyphen"/>tient's taking them beſt in this or that kind of Form; and al<g ref="char:EOLhyphen"/>ſo
+<pb n="32" facs="tcp:64685:27"/>that thoſe that are hotter be given to Perſons of a cold Tem<g ref="char:EOLhyphen"/>per, and thoſe Medicines which are more temperate to ſuch whoſe Conſtitutions are hot: I ſhall ſet down ſeveral Forms of Sweat<g ref="char:EOLhyphen"/>ing Medicines, which are given either in <hi>Potion, Bolus,</hi> or <hi>Pouder.</hi>
+               </p>
+               <p>
+                  <label>Potions.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Small Plague Water, <hi>Two Ounces;</hi> Peſtilential Vinegar, <hi>half an Ounce; of</hi> Ve<g ref="char:EOLhyphen"/>nice Treacle, <hi>one Dram; mingle them.</hi>
+               </ab>
+               <pb n="33" facs="tcp:64685:27"/>
+               <ab type="recipe">
+                  <hi>Take of Compound</hi> Scordi<g ref="char:EOLhyphen"/>um Water <hi>two Ounces;</hi> Treacle-<hi>Water half an Ounce,</hi> Venice Treacle <hi>one Dram,</hi> Salt of Wormwood <hi>one Scru<g ref="char:EOLhyphen"/>ple,</hi> Spirit of Vitriol <hi>Six Drops:</hi> Mingle them.</ab>
+               <ab type="recipe">
+                  <hi>Take of</hi> Butter Burr-Water <hi>three Ounces,</hi> Venice Treacle, Di<g ref="char:EOLhyphen"/>aſcordium, <hi>of each one Dram, Peſtilential</hi> Vine<g ref="char:EOLhyphen"/>gar <hi>one Spoonful:</hi> Mix them.</ab>
+               <pb n="34" facs="tcp:64685:28"/>
+               <ab type="recipe">
+                  <hi>Take of</hi> Carduus <hi>Water Four Ounces, Peſtilential</hi> Vinegar <hi>One Ounce, Peſtilential</hi> Extract <hi>One Scruple:</hi> Mix them.</ab>
+               <ab type="recipe">
+                  <hi>Or make ſome</hi> Poſſet-Drink <hi>with Peſtilential</hi> Vinegar; <hi>in a Draught of it diſſolve one Dram, or a Dram and a half, of any of theſe Confections, adding one Scruple of Salt of</hi> Wormwood.</ab>
+               <ab type="recipe">
+                  <hi>In a Spoonful or two of</hi>
+                  <pb n="35" facs="tcp:64685:28"/>Treacle-Water, <hi>or</hi> Vinegar, <hi>or both mix'd; give fifteen or twenty Drops of</hi> Spirit of Harts-horn, <hi>or of the ſimple Mixture from half a Dram to a Dram; or of</hi> Balſam of Sul<g ref="char:EOLhyphen"/>phur, <hi>from ten to twenty Drops, or fifteen Drops of</hi> Elixir Proprietatis.</ab>
+               <p>For the Poorer ſort, make <hi>Poſſet-Drink</hi> with Peſtilential <hi>Vine<g ref="char:EOLhyphen"/>gar,</hi> and boyl in it ſome <hi>Butter-Roots,</hi> and give a Draught hot.</p>
+               <p>Or make this Potion which <hi>Henricus a Bra</hi> magnifies a<g ref="char:EOLhyphen"/>bove all other Remedies; from
+<pb n="36" facs="tcp:64685:29"/>the Experience of it in a great Plague once raging in his Coun<g ref="char:EOLhyphen"/>try.</p>
+               <ab type="recipe">
+                  <hi>Take</hi> Celandine <hi>and</hi> Rue, <hi>of each one hand<g ref="char:EOLhyphen"/>ful,</hi> Marigold Flowers <hi>half a handful; boyl theſe in a Quart of</hi> White-Wine Vinegar; <hi>ſtrain it out, and keep it in a Glaſs Bottle; give two or three Spoonfuls; in which diſſolve of</hi> Venice Treacle, <hi>or</hi> Mithri<g ref="char:EOLhyphen"/>date, <hi>one Dram.</hi> This will provoke Sweat very powerfully.</ab>
+               <pb n="37" facs="tcp:64685:29"/>
+               <p>Some others commend a De<g ref="char:EOLhyphen"/>coction of <hi>Guaiacum,</hi> to provoke Sweat with it, as in the cure of the <hi>French Pox.</hi>
+               </p>
+               <p>A plain Decoction of <hi>Rue</hi> in <hi>White Wine,</hi> with a little <hi>Vinegar</hi> added to it, is highly commended by others.</p>
+               <p>Seeds of <hi>Rue</hi> pouder'd, and one Dram of it mix'd with half a Dram of <hi>Treacle,</hi> diſſolv'd with <hi>White-Wine,</hi> is accounted an excellent Sudorifick.</p>
+               <p>
+                  <label>Sudorifick Medicines may be given in <hi>Pouder</hi> thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Virginian Snake<g ref="char:EOLhyphen"/>weed, Contrayerva,
+<pb n="38" facs="tcp:64685:30"/>
+                  <hi>and</hi> Gaſcoigne <hi>Pouder, or</hi> Lady Kent's <hi>Pouder, of each one Scruple; give it in two Spoonfuls of Poſſet Drink, or of a Cordial Julep, or in</hi> Sy<g ref="char:EOLhyphen"/>rup of Gilloflowers.</ab>
+               <ab type="recipe">
+                  <hi>Take</hi> Pouder of prepar'd Toad <hi>one Dram,</hi> Pou<g ref="char:EOLhyphen"/>der of Hyacinth <hi>half a Dram:</hi> Mingle them.</ab>
+               <ab type="recipe">
+                  <hi>Take of</hi> Bezoartica Mi<g ref="char:EOLhyphen"/>neralis <hi>half an Ounce, of</hi> Species Liberans <hi>two Scruples,</hi> Camphire
+<pb n="39" facs="tcp:64685:30"/>
+                  <hi>eight Grains:</hi> Mingle them.</ab>
+               <ab type="recipe">
+                  <hi>Take of the</hi> Flower of Sal Armoniac <hi>half a Scruple, of</hi> Ceruſſe of Antimony <hi>one Scruple, of</hi> Bole Armenick <hi>one Scruple:</hi> Mingle them.</ab>
+               <p>Give any of theſe in a Spoon<g ref="char:EOLhyphen"/>ful or two of any Liquor, or in a Spoonful of <hi>Sack,</hi> with as much Peſtilential <hi>Vinegar;</hi> half an hour after, drink a draught of Poſſet-Drink with <hi>Medeſweet,</hi> or <hi>Woodſorrel</hi> boyl'd in it.</p>
+               <pb n="40" facs="tcp:64685:31"/>
+               <ab type="recipe">
+                  <hi>Take of the</hi> Pouder of Ivy Berries <hi>one Dram; give it in a draught of warm</hi> White-Wine, <hi>with a Spoonful of Peſtilential</hi> Vinegar.</ab>
+               <ab type="recipe">
+                  <hi>Take</hi> Pouder of the Roots of Carline Thiſtle; <hi>Give it in the ſame manner.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>Likewiſe</hi> Pouder of But<g ref="char:EOLhyphen"/>ter Burr Root, <hi>given in the ſame manner, provok<g ref="char:EOLhyphen"/>eth Sweat powerfully, and
+<pb n="41" facs="tcp:64685:31"/>expelleth the Poyſon of the Plague.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>Take of</hi> Zedoary Root <hi>that is gummy and ſound, one Ounce,</hi> Sugar Candy <hi>one Ounce and an half,</hi> Camphire <hi>half an Ounce; mix all in a fine Pouder:</hi> The Doſe is one Dram in ſome diſtill'd Water.</ab>
+               <p>
+                  <label>If the Patient can beſt take his Medicine in a <hi>Bolus.</hi>
+                  </label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> of Venice Treacle <hi>one Dram,</hi> Tormentile Roots, Bole prepar'd,
+<pb n="42" facs="tcp:64685:32"/>
+                  <hi>of each one Scruple,</hi> Sy<g ref="char:EOLhyphen"/>rup of Gilloflowers <hi>as much as ſufficeth.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>Take</hi> Diaſcordium, Con<g ref="char:EOLhyphen"/>fectio Liberans, of <hi>each half a Dram, or two Scruples,</hi> Salt of Wormwood <hi>one Scru<g ref="char:EOLhyphen"/>ple,</hi> Conſerve of Roſes <hi>vitriolated half a Dram,</hi> Syrup of Gillo<g ref="char:EOLhyphen"/>flowers <hi>as much as is ſufficient.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>Take of</hi> Conſerve of Roſes <hi>half a Dram,</hi> Balſam of Sulphur,
+<pb n="43" facs="tcp:64685:32"/>
+                  <hi>fifteen Drops; mix them.</hi> Take Poſſet Drink half an hour, or an hour after any of theſe.</ab>
+               <p>When many People are ſick, and there is not leiſure to com<g ref="char:EOLhyphen"/>pound every Doſe of theſe Medi<g ref="char:EOLhyphen"/>cines ſeverally, there ſhould be a large mixture of each kind made up together, which may imme<g ref="char:EOLhyphen"/>diately, and without trouble be diſtributed into Doſes.</p>
+               <p>
+                  <label>For Sweating Potions thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take a Quart of</hi> Small Plague <hi>Water, of</hi> Com<g ref="char:EOLhyphen"/>pound <hi>Water of</hi> Scor<g ref="char:EOLhyphen"/>dium
+<pb n="44" facs="tcp:64685:33"/>
+                  <hi>and Peſtilenti<g ref="char:EOLhyphen"/>al</hi> Vinegar, <hi>of each a Quarter of a Pint, of</hi> Syrup of Gillo<g ref="char:EOLhyphen"/>flowers <hi>two Ounces,</hi> Venice Treacle <hi>one Ounce, of</hi> Diaſcordi<g ref="char:EOLhyphen"/>um <hi>and</hi> Confectio Liberans, <hi>of each half an Ounce,</hi> Peſtilenti<g ref="char:EOLhyphen"/>al Extract, Salt of Wormwood, <hi>of each two Drams; put all to<g ref="char:EOLhyphen"/>gether in a large Glaſs, ſhake them well together, and after it ha0s ſtood Four and Twenty Hours,
+<pb n="45" facs="tcp:64685:33"/>make uſe of it: Pour out three Ounces of the clear, and two Ounces of it turbid or ſhaken juſt before:</hi> This may ſerve for fourteen or ſix<g ref="char:EOLhyphen"/>teen days.</ab>
+               <p>
+                  <label>Mix a <hi>Pouder</hi> thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of the</hi> Pouder of Con<g ref="char:EOLhyphen"/>fectio Liberans, <hi>one Ounce,</hi> Roots of Con<g ref="char:EOLhyphen"/>trayerva, Virginian-Snakeweed, Tor<g ref="char:EOLhyphen"/>mentile, Bole pre<g ref="char:EOLhyphen"/>par'd, <hi>of each two Drams, of the</hi> Claws of Crabs
+<pb n="46" facs="tcp:64685:34"/>
+                  <hi>pouder'd, half an Ounce, mix all very well.</hi> The Doſe is from one Dram to one Dram and a half, or two Drams.</ab>
+               <ab type="recipe">
+                  <hi>Or take of the Pouders of Prepar'd</hi> Toad <hi>one Ounce, and of</hi> Confectio Li<g ref="char:EOLhyphen"/>berans <hi>half an Ounce, mix them.</hi> The Doſe is from one Dram to one Dram and a half.</ab>
+               <p>For an <hi>Electuary</hi> to be diſtri<g ref="char:EOLhyphen"/>buted into ſeveral Doſes, that of <hi>Hermannus Vander Heyden</hi> is a very good one, and as he aſ<g ref="char:EOLhyphen"/>ſerts,
+<pb n="47" facs="tcp:64685:34"/>approved by frequent Ex<g ref="char:EOLhyphen"/>perience.</p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Diaſcordium <hi>one Ounce and a half, of</hi> Venice Treacle <hi>two Drams, of</hi> Confectio Hyacinthi <hi>one Dram,</hi> Pouder of Nutmegs, Rue <hi>Seeds,</hi> Root of Angelica, Enulacam<g ref="char:EOLhyphen"/>pane, <hi>of each one Dram and a half,</hi> Wine Vine<g ref="char:EOLhyphen"/>gar (<hi>or rather</hi> Peſti<g ref="char:EOLhyphen"/>lential Vinegar) <hi>one Ounce,</hi> Oyl of Sulphur <hi>fifteen drops,</hi> Syrup of Juice of Citron <hi>as
+<pb n="48" facs="tcp:64685:35"/>much as ſufficeth: make up all together.</hi> The Doſe is from one Dram and a half to two Drams.</ab>
+               <ab type="recipe">
+                  <hi>Or take of</hi> Conſerve of Wood Sorrel, <hi>half a Pound, of</hi> Mithridate <hi>four Ounces.</hi> The Doſe is two Drams.</ab>
+               <p>In time of Sweating, give the Patient Poſſet Drink made with Peſtilential <hi>Vinegar;</hi> boyl in the Milk <hi>Scordium</hi> or <hi>Marigold</hi> Flowers; if he is very dry, boyl <hi>Medeſweet,</hi> or <hi>Wood Sorrel;</hi> if he is ill at Sto<g ref="char:EOLhyphen"/>mach, and apt to vomit or faint, give <hi>Claret</hi> Wine burnt with <hi>Cin<g ref="char:EOLhyphen"/>namon</hi>
+                  <pb n="49" facs="tcp:64685:35"/>and <hi>Zedoary</hi> Root, and <hi>Mint</hi> Water mix'd with it: Or elſe give him <hi>Beer</hi> boyl'd with a Cruſt of <hi>Bread</hi> and <hi>Mace,</hi> and ſweetn'd with <hi>Sugar.</hi> Beſides, to the richer ſort give now and then a draught of a <hi>Cordial Julep,</hi> and ſometimes a Doſe of a <hi>Cordial E<g ref="char:EOLhyphen"/>lectuary;</hi> which kind of Medicines ſhould be given likewiſe after Sweating is over, once in three or four hours, of one or other, to refreſh the Spirits, and to keep the Malignity from the Heart. Give him no cold <hi>Beer</hi> in two or three days. After Sweating waſh the Mouth with <hi>White-wine Vinegar</hi> and <hi>Roſe Water:</hi> Alſo dip a Spunge in the ſame warm, and gently ſtroke the Temples of the Head, and Noſtrils with the ſame.
+<pb n="50" facs="tcp:64685:36"/>Between whiles give of the Me<g ref="char:EOLhyphen"/>dicines following.</p>
+               <ab type="recipe">
+                  <hi>Take</hi> Woodſorrel Wa<g ref="char:EOLhyphen"/>ter, <hi>and</hi> Dragon-Wa<g ref="char:EOLhyphen"/>ter, <hi>of each Four Ounces;</hi> Scordium Water, <hi>two Ounces;</hi> Treacle Wa<g ref="char:EOLhyphen"/>ter (<hi>or</hi> Plague Wa<g ref="char:EOLhyphen"/>ter) <hi>one Ounce and a half;</hi> Syrup of Gillo<g ref="char:EOLhyphen"/>flowers (<hi>or of</hi> Juice of Citrons) <hi>two Ounces;</hi> Pearle finely pou<g ref="char:EOLhyphen"/>der'd <hi>one Scruple;</hi> Spi<g ref="char:EOLhyphen"/>rit of Vitriol <hi>twelve Drops: Mix them.</hi>
+               </ab>
+               <pb n="51" facs="tcp:64685:36"/>
+               <p>
+                  <label>
+                     <hi>Or make a <hi>Decotion</hi> thus.</hi>
+                  </label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Harts-Horn raſp'd, <hi>and</hi> Ivory, <hi>of each three Drams; a</hi> Pear main <hi>ſliced,</hi> Wood<g ref="char:EOLhyphen"/>ſorrel <hi>half an handful: Boyl theſe in three Pints of Water, till a third part is waſted; Strain it on two Ounces of</hi> Con<g ref="char:EOLhyphen"/>ſerve <hi>of</hi> Gilloflowers, <hi>or</hi> Woodſorrel, <hi>or</hi> Red Roſes: <hi>Let it infuſe an hour: then ſtir it, and ſtrain it out: Give a Quarter of a Pint warm.</hi>
+               </ab>
+               <p>Whereas we give <hi>Emulſions</hi>
+                  <pb n="52" facs="tcp:64685:37"/>made with ſuch a Decoction and <hi>Almonds,</hi> and cold Seeds in Fevers, <hi>Diemerbroek</hi> affirms, upon his frequent Obſervation, <hi>Emulſions</hi> never do well in the Plague.</p>
+               <ab type="recipe">
+                  <hi>Take of the</hi> Conſerve of Woodſorrel <hi>four ounces, of the</hi> Rob of Goosberries <hi>or</hi> Raſ<g ref="char:EOLhyphen"/>berries <hi>two Ounces,</hi> Species Diarrhodon Abbatis <hi>two Drams,</hi> Confectionis Libe<g ref="char:EOLhyphen"/>rantis <hi>one Dram and a half, of</hi> Prepar'd Pearl <hi>half a Dram,</hi> Red Co<g ref="char:EOLhyphen"/>ral prepar'd <hi>one Dram, with a ſufficient quantity
+<pb n="53" facs="tcp:64685:37"/>of</hi> Syrup of Juice of Citron: Let it be made an Opiate: The Doſe is one or two Drams often in a day.</ab>
+               <p>Sometimes the Plague is accom<g ref="char:EOLhyphen"/>panied with dangerous Symptoms, to which if Remedies are not ſud<g ref="char:EOLhyphen"/>denly applied, all we do beſides is to little purpoſe. Such Acci<g ref="char:EOLhyphen"/>dents, which call for reſpective ways of Cure, are chiefly <hi>Fluxes of Blood,</hi> and <hi>Looſneſs of the Belly,</hi> and <hi>Vomiting.</hi>
+               </p>
+               <p>The firſt uſe to happen ſeve<g ref="char:EOLhyphen"/>ral ways, <hi>viz.</hi> at the Noſe and Mouth, by Stool or Urine, by the <hi>Haemorrhoids,</hi> and in Women by Menſtrual Purgations: Some
+<pb n="54" facs="tcp:64685:38"/>of which, as by Urine always, and oft times by Stool, are mor<g ref="char:EOLhyphen"/>tal; none of them ever tend to good Therefore in all ſuch caſes, Remedies muſt be adminiſtred which may ſtop Bleeding: And though Sweating and Refection of the Spirits be ſtill the principal intention of Cure; yet the other muſt come in as collateral with both of them; and Medicines that reſtrain Fluxes of Blood be mixed both with Sudorificks and other Cordials, and alſo be admi<g ref="char:EOLhyphen"/>niſtred with Diet too.</p>
+               <p>In all <hi>Haemorrhages</hi> Sudorificks muſt be compounded of Medi<g ref="char:EOLhyphen"/>cines that are temperate, and not aſtringent.</p>
+               <pb n="55" facs="tcp:64685:38"/>
+               <p>
+                  <label>For <hi>Potions</hi> they be made thus</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> Pimpernel Water, <hi>or</hi> Tormentil Water <hi>two Ounces, of</hi> Scordi<g ref="char:EOLhyphen"/>um Water <hi>ſix Drams, of</hi> Vinegar <hi>that has</hi> Tormentil Roots in<g ref="char:EOLhyphen"/>fus'd <hi>in it, two Drams,</hi> Confection of Hya<g ref="char:EOLhyphen"/>cinth <hi>one Dram, of</hi> pre<g ref="char:EOLhyphen"/>par'd Bole <hi>half a Dram,</hi> Extract of Tormen<g ref="char:EOLhyphen"/>til <hi>one Scruple, of</hi> Sy<g ref="char:EOLhyphen"/>rup of Coral <hi>three Drams.</hi>
+               </ab>
+               <pb n="56" facs="tcp:64685:39"/>
+               <ab type="recipe">
+                  <hi>Or make</hi> Poſſet Drink <hi>with</hi> Tormentil Vine<g ref="char:EOLhyphen"/>gar, <hi>boyl in it a</hi> Root of Tormentil <hi>and</hi> Biſtort; <hi>in one draught of it diſſolve of</hi> Venice Treacle <hi>two Scruples,</hi> Confection of Hya<g ref="char:EOLhyphen"/>cinth, prepar'd Bole, <hi>of each one Scruple.</hi>
+               </ab>
+               <p>Make this <hi>Apozeme,</hi> and give two or three Ounces three or four times in a day.</p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Tormentil Roots <hi>half an Ounce,</hi> Biſtort <hi>three Drams,</hi> Red San<g ref="char:EOLhyphen"/>ders
+<pb n="57" facs="tcp:64685:39"/>
+                  <hi>one Dram, of</hi> Pomegranate Peel <hi>one Dram,</hi> St. Johns Wort, Plantane <hi>and</hi> Burnet, <hi>of each half a handful;</hi> Flowers of Roſes, <hi>and</hi> Pomegranates, <hi>of each one Dram and a half; of</hi> Plantane Seeds <hi>one Dram: Boyl theſe in three Pints of Water till a Pint is waſted; ſtrain it, and add to it of</hi> Sy<g ref="char:EOLhyphen"/>rup of Coral <hi>two Ounces,</hi> Confection of Hyacinth <hi>two Drams:</hi> Mingle them.</ab>
+               <pb n="58" facs="tcp:64685:40"/>
+               <p>
+                  <label>
+                     <hi>Pouders</hi> may be com<g ref="char:EOLhyphen"/>pounded thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Confectio Li<g ref="char:EOLhyphen"/>berans, <hi>or</hi> Confecti<g ref="char:EOLhyphen"/>on of Hyacinth <hi>half a Dram;</hi> Tormentil Roots, Fine Bole, <hi>of each one Scruple;</hi> Pearl <hi>and</hi> Coral prepar'd, <hi>of each half a Scruple:</hi> Give it in a Spoonful of <hi>Syrup</hi> of <hi>Coral,</hi> with a Spoonful of <hi>Tor<g ref="char:EOLhyphen"/>mentil Vinegar.</hi>
+               </ab>
+               <pb n="59" facs="tcp:64685:40"/>
+               <p>
+                  <label>Make a <hi>Bolus</hi> thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> Confection of Hyacinth and Ve<g ref="char:EOLhyphen"/>nice Treacle, <hi>of each half a Dram;</hi> Tormen<g ref="char:EOLhyphen"/>til Roots <hi>and</hi> pre<g ref="char:EOLhyphen"/>par'd Bole, <hi>of each one Scruple; of</hi> Extract of Tormentil <hi>half a Scru<g ref="char:EOLhyphen"/>ple, of</hi> prepar'd Pearl <hi>ſix Grains, of</hi> Syrup of Coral <hi>as much as is ſufficient.</hi>
+               </ab>
+               <p>For <hi>Iuleps</hi> and <hi>Confecti<g ref="char:EOLhyphen"/>ons,</hi> to give in, and betwixt
+<pb n="60" facs="tcp:64685:41"/>
+                  <hi>Sweating,</hi> they be compounded thus.</p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Medeſweet <hi>Wa<g ref="char:EOLhyphen"/>ter eight Ounces,</hi> ſmall Plague <hi>Water,</hi> Scordi<g ref="char:EOLhyphen"/>um Compound <hi>Wa<g ref="char:EOLhyphen"/>ter, of each three Ounces; of</hi> Syrup of Coral <hi>two Ounces,</hi> Confecti<g ref="char:EOLhyphen"/>on of Hyacinth <hi>two Drams, of</hi> Tormentil Vinegar <hi>half an Ounce;</hi> Mix them: Give four or five Spoonfuls e<g ref="char:EOLhyphen"/>very third hour.</ab>
+               <ab type="recipe">
+                  <hi>Or take of</hi> Conſerve of
+<pb n="61" facs="tcp:64685:41"/>Red Roſes <hi>four Ounces, of</hi> prepar'd Coral <hi>two Drams, of</hi> prepar'd Pearl <hi>half a Dram,</hi> Confection of Hya<g ref="char:EOLhyphen"/>cinth and Alkermes, <hi>of each one Dram,</hi> of Tormentil Vinegar <hi>half an Ounce; or as much as is ſufficient:</hi> Make it up into an Electuary: Give once in three or four hours as much as a Nutmeg.</ab>
+               <p>Theſe kinds of Remedies, which are proper in <hi>Haemorrhages,</hi> are alſo to be uſed in <hi>Fluxes</hi> of the Belly; likewiſe by Women with
+<pb n="62" facs="tcp:64685:42"/>Child, becauſe other more hot Medicines may provoke an Abor<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <label>Make <hi>Tormentil Vinegar</hi> thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> Roots of Tor<g ref="char:EOLhyphen"/>mentil, Biſtort <hi>dried and ſliced, of each an Ounce,</hi> Cinnamon <hi>half an Ounce,</hi> Red Sanders <hi>one Dram: Bruiſe all very well, and put to it a Quart of</hi> White-Wine Vinegar; <hi>digeſt it in a common Furnace for four days: At the ſame time take</hi> Red and White Coral finely
+<pb n="63" facs="tcp:64685:42"/>pouder'd, <hi>of each half an Ounce;</hi> Dragons Blood, Blood-Stone, <hi>of each one Dram;</hi> Fine Bole, <hi>two Drams: Di<g ref="char:EOLhyphen"/>geſt theſe in the ſame manner with a</hi> Quart of Vinegar: Then ſtrain out both the Li<g ref="char:EOLhyphen"/>quors, and mix them.</ab>
+               <p>
+                  <label>Let <hi>Extract</hi> of <hi>Tormentil</hi> Roots be made thus.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> Tormentil <hi>and</hi> Bi<g ref="char:EOLhyphen"/>ſtort-Roots, <hi>of each one Ounce;</hi> of Cinnamon <hi>half an Ounce,</hi> of Red
+<pb n="64" facs="tcp:64685:43"/>Sanders <hi>two Drams,</hi> Salt of Wormwood <hi>half an Ounce; bruiſe all together, adding of</hi> Tormentil Vinegar <hi>two Ounces; put it in a Veſſel to digeſt with three Pints of</hi> Mede<g ref="char:EOLhyphen"/>ſweet Water: <hi>Strain it, and evaporate it with a gentle heat in</hi> Balneo Mariae <hi>to the Conſiſten<g ref="char:EOLhyphen"/>cy of Honey.</hi>
+               </ab>
+               <p>In the Cure of the Plague, if a courſe of Sweating, timely ad<g ref="char:EOLhyphen"/>miniſtred, do plentifully ſucceed, and withal other private Excre<g ref="char:EOLhyphen"/>tions be either prevented or pre<g ref="char:EOLhyphen"/>ſently
+<pb n="65" facs="tcp:64685:43"/>ſuppreſt, the Patient may be judg'd to be in a hopeful condition; and ſometimes the Venom is quite expell'd, without any other accident: But for the moſt part, becauſe the Poyſon, by fermenting the Blood and Humours, is ſoon greatly en<g ref="char:EOLhyphen"/>creas'd; ſo that all of it, eſpe<g ref="char:EOLhyphen"/>cially the groſſer Particles, can<g ref="char:EOLhyphen"/>not eaſily evaporate, it ſettles in the outward Parts, and there cauſeth the ſwelling and break<g ref="char:EOLhyphen"/>ing out of divers kinds: Thoſe that require any application of Remedies, are <hi>Boils</hi> and <hi>Car<g ref="char:EOLhyphen"/>buncles.</hi>
+               </p>
+               <p>The firſt of theſe commonly happen in Parts that are very Glandulous; as behind the Ears, under the Armpits, and in the
+<pb n="66" facs="tcp:64685:44"/>Groin: They ariſe with a hard Swelling, which ought to ſup<g ref="char:EOLhyphen"/>purate and break, and the Cor<g ref="char:EOLhyphen"/>ruption to be drawn all out, by the running of the Sore for ſome time: Theſe Tumors call'd <hi>Bubo's,</hi> ſhould be ordered thus.</p>
+               <p>If a Bliſter is not rais'd on, or near the place already, 'tis good to apply a <hi>Veſicatory</hi> Plai<g ref="char:EOLhyphen"/>ſter juſt below it, but on the Tumor it ſelf to apply ſome drawing Medicine, to attract the Venom outward; as at firſt, the Fundament of ſome living Fowl, or elſe a <hi>Colewort-Leaf</hi> dipt in ſcalding Water, and dried again, and ſmear'd over with <hi>Oyl of Lillies</hi> or <hi>Scorpions.</hi> To ripen the Sore, lay on Pultiſes or Plai<g ref="char:EOLhyphen"/>ſters; or rather firſt Pultiſes, and
+<pb n="67" facs="tcp:64685:44"/>then Plaiſters, when it tends to ſuppuration; which ſhould be re<g ref="char:EOLhyphen"/>new'd every twelve hours at leaſt.</p>
+               <p>
+                  <label>For <hi>Pultiſes.</hi>
+                  </label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take an</hi> Onion <hi>and</hi> White Lilly Roots, <hi>boyl them, or elſe wrap them in a wet Paper, and roaſt them in the Embers, afterward ſtamp both together, adding a little</hi> Treacle, <hi>and</hi> Oyl of Lillies <hi>as much as is ſufficient: Or elſe roaſt a</hi> Fig <hi>with either or both theſe above-nam'd,
+<pb n="68" facs="tcp:64685:45"/>and make a Pultis in the ſame manner: Or elſe with either, or all above<g ref="char:EOLhyphen"/>named Remedies, add an handful of</hi> Scabious <hi>or</hi> Sorrel <hi>waſh'd; and after beat all into a Pultis.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>Take</hi> Pimpernel roa<g ref="char:EOLhyphen"/>ſted on the Embers, <hi>mollifie it with</hi> Oyl of Scorpions, <hi>adding a little</hi> Pouder of Myrrh <hi>and</hi> Venice Treacle, <hi>and lay it to the Sore.</hi>
+               </ab>
+               <pb n="69" facs="tcp:64685:45"/>
+               <ab type="recipe">
+                  <hi>Some do commend</hi> live Frogs <hi>to be applyed, and renew'd as oft as they die.</hi>
+               </ab>
+               <ab type="recipe">
+                  <hi>For a Plaiſter to break the Sore when it is o<g ref="char:EOLhyphen"/>pen'd,</hi> Diachylon <hi>with</hi> Gums; <hi>or elſe thoſe two Emplaiſters,</hi> viz. Em<g ref="char:EOLhyphen"/>plaſtrum Paracelſi, <hi>and</hi> de Fuligine, <hi>men<g ref="char:EOLhyphen"/>tion'd by <hi>Diemerbroek,</hi> pag.</hi> 213. <hi>Paracelſus</hi> his Plaiſter is there thus order'd to be made.</ab>
+               <pb n="70" facs="tcp:64685:46"/>
+               <ab type="recipe">
+                  <hi>Take of</hi> Gum Oppopa<g ref="char:EOLhyphen"/>nax <hi>two Ounces,</hi> Sera<g ref="char:EOLhyphen"/>phin <hi>or</hi> Sagapen <hi>four Ounces,</hi> Bdellium <hi>three Ounces,</hi> Galbanum <hi>one Ounce,</hi> Olibanum <hi>two Drams; let them be diſſolved in</hi> Vinegar, <hi>and ſtrain'd, and ad<g ref="char:EOLhyphen"/>ding the</hi> Pouder of a dried Toad and Frog, <hi>of</hi> Natural Brimſtone <hi>one Ounce, of</hi> Camphire <hi>one Dram:</hi> Let it be made a Plaiſter to
+<pb n="71" facs="tcp:64685:46"/>be put upon the Tumor, and renew<g ref="char:EOLhyphen"/>ed every ſix hours.</ab>
+               <p>
+                  <label>
+                     <hi>Emplaſtrum de Fuligine,</hi> or <hi>Plaiſter of Soot,</hi> is thus made.</label>
+               </p>
+               <ab type="recipe">
+                  <hi>Take of</hi> Chimney Soot <hi>ten Drams,</hi> Leaven, Turpentine, Butter, <hi>of each one Ounce,</hi> Ve<g ref="char:EOLhyphen"/>nice Sope <hi>one Ounce and a half, of</hi> Honey of Roſes <hi>ſix Drams,</hi> Common Salt <hi>half an Ounce, the</hi> Whites of two Eggs, Trea<g ref="char:EOLhyphen"/>cle
+<pb n="72" facs="tcp:64685:47"/>
+                  <hi>and</hi> Mithridate, <hi>of each two Drams:</hi> Let them be mixed. <hi>For the Poorer ſort,</hi> Shoemakers Wax <hi>is as good as any.</hi>
+               </ab>
+               <p>If when the Tumor is ripen'd, it do not ſoon break of it ſelf, it is beſt to open it by Inciſion; and when it is broken, put in a Pledget dipp'd in <hi>Turpentine</hi> mix'd with the <hi>Yolk of an Egg;</hi> or dreſs it with <hi>Baſilicon</hi> alone, or the Liniment of <hi>Arceus.</hi>
+               </p>
+               <p>A <hi>Carbuncle,</hi> which is the other kind of Plague-Sore, which requires the operation of the hand, happens but ſeldom in any of the Emunctories [and
+<pb n="73" facs="tcp:64685:47"/>when it does it portends ill] but uſeth to be in moſt places elſe: It ariſeth with angry <hi>Puſtules,</hi> ſometimes one, ſometimes many; which ſoon grow diſcolour'd, and tend to Mortification, and the ſubſtance mortified muſt be caſt out, and then the hol<g ref="char:EOLhyphen"/>low Ulcer which remains muſt be healed.</p>
+               <p>When a <hi>Carbuncle</hi> firſt appears, <hi>Diemerbroek</hi> commends to be applied to it for the firſt and ſe<g ref="char:EOLhyphen"/>cond day, a <hi>Red Colewort Leaf,</hi> ſmear'd over with <hi>Rape Oyl:</hi> The ſame Author mentions a <hi>Pultis</hi> which he us'd for the moſt part, renewing it three or four times in four and twenty hours, till the Gore was taken out; and then Digeſtive Medicines, and others
+<pb n="74" facs="tcp:64685:48"/>ſucceedingly are to be us'd, as in other <hi>
+                     <g ref="char:V">Ʋ</g>lcers.</hi>
+               </p>
+               <ab type="recipe">
+                  <hi>Take</hi> Scabious <hi>and</hi> De<g ref="char:EOLhyphen"/>vils Bit, <hi>of each two or three handfuls, ſtamp them, and then beat them with the</hi> Yolks of two Eggs, <hi>and a little</hi> Salt; <hi>lay it to the</hi> Carbuncle <hi>warm, re<g ref="char:EOLhyphen"/>newing it three times in a day at leaſt.</hi>
+               </ab>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64685:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
